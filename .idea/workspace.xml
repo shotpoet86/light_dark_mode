@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70bb028d-7e9e-40e4-b147-bc42b240e830" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sun-with-face_1f31e.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -14,13 +16,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kTVI7HHznnj8OkuA2jvFc4yTMD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
@@ -48,14 +53,31 @@
       <option name="presentableId" value="Default" />
       <updated>1605724486277</updated>
       <workItem from="1605724487536" duration="9383000" />
-      <workItem from="1605765801865" duration="336000" />
+      <workItem from="1605765801865" duration="1425000" />
     </task>
+    <task id="LOCAL-00001" summary="title bar update">
+      <created>1605766201407</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605766201407</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="title bar update" />
+    <option name="LAST_COMMIT_MESSAGE" value="title bar update" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2" timestamp="1605766201335">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605766201335" />
     <state x="2739" y="436" width="281" height="214" key="Github.ShareDialog" timestamp="1605735570981">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -68,9 +90,13 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2391" y="175" width="977" height="737" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605733555800" />
-    <state x="2698" y="451" width="353" height="185" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605765805087">
+    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1605766206749">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2698" y="451" width="353" height="185" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605765805087" />
+    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605766206749" />
+    <state x="2698" y="451" width="363" height="185" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605766286924">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2698" y="451" width="363" height="185" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605766286924" />
   </component>
 </project>
