@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70bb028d-7e9e-40e4-b147-bc42b240e830" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" />
-    </list>
+    <list default="true" id="70bb028d-7e9e-40e4-b147-bc42b240e830" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="10.17.35" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/robot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../html_projects/animated" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -50,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605724486277</updated>
       <workItem from="1605724487536" duration="9383000" />
-      <workItem from="1605765801865" duration="1503000" />
+      <workItem from="1605765801865" duration="1596000" />
     </task>
     <task id="LOCAL-00001" summary="title bar update">
       <created>1605766201407</created>
@@ -66,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605767365230</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="title bar update">
+      <created>1605767422287</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605767422287</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,10 +83,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="title bar update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2" timestamp="1605767365183">
+    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2" timestamp="1605767422241">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605767365183" />
+    <state x="2471" y="37" width="807" height="1013" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605767422241" />
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605767506104">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605767506104" />
     <state x="2739" y="436" width="281" height="214" key="Github.ShareDialog" timestamp="1605735570981">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -94,10 +103,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2391" y="175" width="977" height="737" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605733555800" />
-    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1605767370743">
+    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2" timestamp="1605767424173">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605767370743" />
+    <state x="2475" y="275" width="800" height="537" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080/3840.0.1920.1080@1920.0.1920.1080" timestamp="1605767424173" />
     <state x="2698" y="451" width="363" height="185" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605766286924">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
